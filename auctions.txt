@@ -1,0 +1,11 @@
+List(Item ID: 74841 , Auction Maker: Fahbio , Price: 365585 , Quantity: 5 , 
+, Item ID: 74841 , Auction Maker: Jabi , Price: 8000000 , Quantity: 100 , 
+, Item ID: 74841 , Auction Maker: Eviltoad , Price: 144770 , Quantity: 2 , 
+, Item ID: 74841 , Auction Maker: Carspuppys , Price: 4275005 , Quantity: 49 , 
+, Item ID: 74841 , Auction Maker: Nagus , Price: 1040000 , Quantity: 16 , 
+, Item ID: 74841 , Auction Maker: Fahbio , Price: 365585 , Quantity: 5 , 
+, Item ID: 74841 , Auction Maker: Fahbio , Price: 365585 , Quantity: 5 , 
+, Item ID: 74841 , Auction Maker: Arcanepain , Price: 1311300 , Quantity: 20 , 
+, Item ID: 74841 , Auction Maker: Syon , Price: 211500 , Quantity: 3 , 
+, Item ID: 74841 , Auction Maker: Ziet , Price: 2387776 , Quantity: 16 , 
+)
